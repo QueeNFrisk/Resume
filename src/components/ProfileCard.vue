@@ -32,18 +32,8 @@ const showProfileImage = () => {
         <!-- End profile avtar -->
         <vue-easy-lightbox :visible="visibleRef" :imgs="imgsRef" :index="indexRef" @hide="onHide"></vue-easy-lightbox>
         <div>
-          <div class="text-lg font-bold text-gray-900 dark:text-night-50">{{ resume.profile.name }}</div>
+          <div class="text-xl font-bold text-gray-900 dark:text-night-50">{{ resume.profile.name }}</div>
           <div class="text-xs text-gray-400 dark:text-night-200">{{ resume.profile.job }}</div>
-          <div class="mt-2 inline-flex flex-wrap gap-1">
-            <a
-              v-for="(social, index) of resume.profile.socialNetwork"
-              :href="social.url"
-              :key="index"
-              target="_blank"
-              class="cursor-pointer rounded-lg border border-gray-100 px-2 py-0.5 text-xs font-medium text-gray-400 hover:bg-primary-500/20 hover:text-primary-500 dark:border-night-600 dark:hover:bg-primary-500/20">
-              {{ social.name }}
-            </a>
-          </div>
         </div>
       </div>
       <!-- More Options  -->
@@ -51,5 +41,18 @@ const showProfileImage = () => {
       <!-- End status badge -->
     </div>
     <div class=""></div>
+  </div>
+  <div class="card">
+    <span class="text-xl font-semibold dark:text-night-50">{{ $t('social_networks') }}</span>
+    <div class="mt-4 -ml-1 inline-flex flex-wrap gap-1">
+      <a
+        v-for="(social, index) of resume.profile.socialNetwork"
+        :href="social.url"
+        :key="index"
+        target="_blank"
+        class="cursor-pointer rounded-lg border-2 border-gray-100 px-2 py-1 text-xs font-medium text-gray-400 hover:bg-primary-500/20 hover:text-primary-500 dark:border-night-600 dark:hover:bg-primary-500/20">
+        {{ social.name }}
+      </a>
+    </div>
   </div>
 </template>

@@ -19,8 +19,8 @@ defineProps<{ item: Certificate; separator: boolean }>();
           <span class="text-sm font-medium">{{ item.course }}</span>
           <div class="text-xs">{{ item.issueDate }} · {{ item.expirationDate }}</div>
           <div v-if="item.credentialCode" class="text-xs">
-            {{ $t('credential_code') }}
-            <span class="rounded-xl bg-primary-500/10 py-1 px-1 text-primary-500">{{ item.credentialCode }}</span>
+            <!--{{ $t('credential_code') }}-->ID:
+            <span class="rounded-xl bg-primary-500/10 py-1 px-2 text-primary-500">{{ item.credentialCode }}</span>
           </div>
         </div>
         <a

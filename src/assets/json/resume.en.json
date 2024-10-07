@@ -1,226 +1,385 @@
 {
   "profile": {
-    "name": "Bill Gates",
-    "job": "Co-chair, Bill & Melinda Gates Foundation",
+    "name": "Daniel Garcia",
+    "job": "Senior Customer Success Advisor",
     "avatar": "img/profile/me.jpg",
-    "aboutMe": "Co-chair of the Bill & Melinda Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+    "aboutMe": "My name is Daniel Garcia. I am a selftaught Identity and Access Managemen, passionate about software development, with a strong inclination towards back-end and a front-end enthusiast. I strive to ensure technology access and accessibility for end-users, always maintaining a rigorous focus on security and data protection.",
     "socialNetwork": [
       {
-        "name": "Twitter",
-        "url": "https://twitter.com/billgates"
+        "name": "Linkedin",
+        "url": ""
       },
       {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/williamhgates"
+        "name": "Github",
+        "url": ""
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/thisisbillgates/"
+        "name": "HackerRank",
+        "url": ""
+      },
+      {
+        "name": "LeetCode",
+        "url": ""
       }
     ]
   },
   "cv": {
     "icon": "DocumentTextIcon",
     "name": "PDF & DOC",
-    "value": "Bill Gates",
-    "url": "https://dl.lanno.dev/share/GppwRUSq0tOPCjWy/files/703b5c3a-ff83-4ce9-8607-fc86d0ac09eb"
+    "value": "Daniel_Garcia_CV.pdf",
+    "url": ""
   },
   "information": [
     {
       "icon": "EnvelopeIcon",
-      "name": "Mail address",
-      "value": "billgates@microsoft.com"
+      "name": "Email Address",
+      "value": "me@dangarcia.xyz"
     },
     {
       "icon": "CakeIcon",
-      "name": "66 Years old",
-      "value": "28 october 1955"
-    },
-    {
-      "icon": "DevicePhoneMobileIcon",
-      "name": "Phone Number",
-      "value": "+1 (800) 642 7676"
+      "name": "27 Years Old",
+      "value": "August 97'"
     },
     {
       "icon": "ComputerDesktopIcon",
       "name": "Work type",
-      "value": "Remote or Fulltime"
+      "value": "Hybrid Fulltime"
     }
   ],
   "skill": [
-    "C#",
-    "JavaScript",
-    "Angular",
-    "Vue",
+    "Typescript",
+    "Javascript",
     "CSS",
-    "Tailwindcss",
-    "Dart",
-    "PHP",
-    "TypeScript",
-    "Laravel",
-    "Flutter",
-    "AngularJS",
-    "Bootstrap",
-    "NodeJS",
-    "HTML",
-    "jQuery",
-    "Microsoft SQL",
-    "VS Code",
-    "IIS",
-    "Git",
-    "Windows",
-    "Internet Explorer",
-    "Insomnia"
+    "Python",
+    "Rust",
+    "Go"
   ],
   "language": [
     {
+      "name": "Spanish",
+      "code": "es-MX",
+      "flag": "svg/mexico.svg",
+      "level": "Native"
+    },
+    {
       "name": "English",
-      "code": "pt-BR",
+      "code": "en-US",
       "flag": "svg/united-states.svg",
-      "level": "Native Language"
+      "level": "Advance - C2"
     },
     {
       "name": "Portuguese",
-      "code": "en-US",
+      "code": "pt-BR",
       "flag": "svg/brazil.svg",
-      "level": "Intermediate"
+      "level": "Intermediate - B2"
     }
   ],
   "experience": [
     {
-      "job": "Bill & Melinda Gates Foundation",
-      "company": "Co-chair",
-      "companyLogo": "img/company/co-chair.jpg",
-      "location": "New York",
-      "workType": "Fulltime",
-      "start": "jan 2000",
+      "job": "Senior Customer Success Advisor",
+      "company": "GlobalLogic",
+      "companyLogo": "img/company/GlobalLogic.jpeg",
+      "location": "Jalisco, Mexico",
+      "workType": "Hybrid - FullTime",
+      "start": "September 2024",
       "end": "Current",
-      "description": "Guided by the belief that every life has equal value, the Bill & Melinda Gates Foundation works to help all people lead healthy, productive lives. In developing countries, it focuses on improving people’s health and giving them the chance to lift themselves out of hunger and extreme poverty. In the United States, it seeks to ensure that all people—especially those with the fewest resources—have access to the opportunities they need to succeed in school and life. Based in Seattle, Washington, the foundation is led by CEO Mark Suzman, under the direction of co-chairs Bill Gates and Melinda French Gates and the board of trustees."
+      "description": "As a Senior Customer Success Advisor, my responsibility is to ensure that customers get the most out of our products, fostering long-term relationships. I manage key accounts, guide customers through the onboarding process, and optimize their experience with our solutions. I develop strategies to retain clients, identify upselling opportunities, and collaborate to resolve any technical issues. My focus is always on customer satisfaction, using my communication and management skills to help them achieve their goals successfully."
     },
     {
-      "job": "Breakthrough Energy",
-      "company": "Founder",
-      "companyLogo": "img/company/founder.jpg",
-      "location": "New York",
-      "workType": "Fulltime",
-      "start": "jan 2015",
-      "end": "Current",
-      "description": "Breakthrough Energy is dedicated to helping humanity avoid a climate disaster. Through investment vehicles, philanthropic programs, policy advocacy, and other activities, we’re committed to scaling the technologies we need to reach net-zero emissions by 2050."
+      "job": "Identity and Access Management Engineer - L2",
+      "company": "Tata Consultancy Services",
+      "companyLogo": "img/company/TataConsultancyServices.jpeg",
+      "location": "Jalisco, Mexico",
+      "workType": "Hybrid - Fulltime",
+      "start": "June",
+      "end": "September 2024",
+      "description": "As IAM Engineer, I manage and maintain access controls to ensure users have the appropriate permissions for their roles. I regularly conduct audits to ensure compliance with security policies and regulations. I also develop and enforce IAM policies to safeguard the organization's resources. Additionally, I provide support for resolving access-related incidents and work on automating IAM processes to improve efficiency and reduce the risk of errors."
+    },
+    {
+      "job": "Cybersecurity - L2",
+      "company": "HCLTech",
+      "companyLogo": "img/company/HCLTech.jpeg",
+      "location": "Jalisco, Mexico",
+      "workType": "Precencial - Fulltime",
+      "start": "May 2023",
+      "end": "June 2024",
+      "description": "In my cybersecurity role, I investigate and analyze security incidents, identifying root causes and developing solutions to prevent future occurrences. I conduct vulnerability assessments to spot potential risks and proactively implement measures to prevent breaches. I apply and maintain security policies, procedures, and controls to protect our IT infrastructure. I also take an active role in educating employees on security best practices and the importance of adhering to established protocols. Additionally, I manage user access controls and permissions to ensure secure access to our systems."
+    },
+    {
+      "job": "Fullstack Developer",
+      "company": "Comercializadora Ideac",
+      "companyLogo": "img/company/Ideac.jpeg",
+      "location": "Jalisco, Mexico",
+      "workType": "Precencial - Fulltime",
+      "start": "July 2018",
+      "end": "June 2022",
+      "description": "As a FullStack Developer with 4 years of experience, I specialize in API development using NodeJS with both ExpressJS and NestJS frameworks. I leverage ExpressJS for its simplicity in creating custom routes and controllers, and NestJS for its modular structure, enhancing scalability and maintainability. I also automate financial processes in SAP using Python, creating custom scripts to improve efficiency and reduce errors in tasks like reconciliations and report generation. Additionally, I provide website support using PHP and JavaScript, ensuring smooth operation and implementing new features to enhance user experience and site performance."
+    },
+    {
+      "job": "Fullstack Developer",
+      "company": "HighPro",
+      "companyLogo": "img/company/HighPro.jpg",
+      "location": "Jalisco, Mexico",
+      "workType": "Remote - Part-time",
+      "start": "February 2018",
+      "end": "October 2018",
+      "description": "As a FullStack Developer with 8 months of experience, I have developed internal software using Python and JavaScript (Electron) to manage inventory and generate quotations, optimizing stock control and budgeting processes to enhance operational efficiency and decision-making. I also maintain e-commerce automation systems using PHP and Python, improving operational efficiency, order management, and process integration to deliver a smoother user experience and optimized performance."
     }
   ],
   "education": [
     {
-      "college": "Harvard University",
-      "collegeLogo": "img/college/harvard.jpg",
-      "course": "Mathematics, law and computer science",
-      "start": "1973",
-      "end": "1975",
-      "url": "https://www.xpeducacao.com.br/pos-graduacao/desenvolvimento-front-end?evento=dev_summit"
+      "college": "Utel University",
+      "collegeLogo": "img/college/Utel.png",
+      "course": "Bachelor's Degree in Computer Systems",
+      "start": "2024",
+      "end": "2027",
+      "url": ""
     },
     {
-      "college": "Lakeside School",
-      "collegeLogo": "img/college/lakeside.jpg",
-      "course": "Technologist in Computer Networks, Network Management and Systems Security",
-      "start": "1963",
-      "end": "1973",
+      "college": "University of London",
+      "collegeLogo": "img/college/London.jpeg",
+      "course": "MSc Cybersecurity",
+      "start": "2026",
+      "end": "2030",
       "url": ""
-    }
-  ],
-  "volunteer": [
-    {
-      "job": "Team Coordinator",
-      "company": "Green Peace",
-      "companyLogo": "img/company/green-peace.jpg",
-      "location": "New York",
-      "workType": "Remote",
-      "start": "January 2000",
-      "end": "Current",
-      "description": "Greenpeace is an independent global campaigning network that acts to change attitudes and behaviour, to protect and conserve the environment and to promote peace. It comprises 26 independent national/regional Greenpeace organisations with presence in over 55 countries across Europe, Africa, the Americas, Asia and the Pacific, as well as a coordinating and supporting organisation, Greenpeace International."
     }
   ],
   "certificate": [
     {
-      "course": "Microsoft Azure Data Engineering Associate (DP-203)",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2000",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering"
+      "course": "Agile Stakeholder Engagement and Team Development",
+      "school": "Skillsoft",
+      "schoolLogo": "img/college/Skillsoft.jpg",
+      "issueDate": "May 6 - 2024",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "0x4809fdf9ac1b45911e0b45c01dee9c80c10054235e4f1cecc063d0b4dde8d5e0",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/f22f9704-6953-46f9-8d8f-1ae33259020a#gs.fqwg7g"
     },
     {
-      "course": "Microsoft 365 Fundamentals",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2001",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/specializations/microsoft-365-fundamentals"
+      "course": "Agile Project Scheduling and Monitoring",
+      "school": "Skillsoft",
+      "schoolLogo": "img/college/Skillsoft.jpg",
+      "issueDate": "May 6 - 2024",
+      "expirationDate": "Doesn't expire",
+      "credentialCode": "0x4809fdf9ac1b45911e0b45c01dee9c80c10054235e4f1cecc063d0b4dde8d5e0",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/c5b1455a-4dc6-4788-8858-7be88fc1c8b6#gs.fqwxp9"
     },
     {
-      "course": "Microsoft Azure Fundamentals AZ-900 Exam Prep",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2002",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900"
+      "course": "Agile Project Planning",
+      "school": "Skillsoft",
+      "schoolLogo": "img/college/Skillsoft.jpg",
+      "issueDate": "April 22 - 2024",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "0x1c1df4f0e729e27ce01672a977aefa334ae37a6eab8124e14f19475a28733c8e",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/cfa83836-8c4c-4a91-beff-2b5322ed8981#gs.fqx4m8"
     },
     {
-      "course": "Microsoft Azure Data Scientist Associate (DP-100)",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2003",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/professional-certificates/azure-data-scientist"
+      "course": "Agile Principles and Methodologies",
+      "school": "Skillsoft",
+      "schoolLogo": "img/college/Skillsoft.jpg",
+      "issueDate": "April 8 - 2024",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "0xe5b71c705d2de8097e4f214949bac3dfbc178872326147012f54384927b1f81d",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/143c6557-cc8e-48d8-9afe-7120bd813be8#gs.fqx6g9"
     },
     {
-      "course": "Microsoft Azure AI Fundamentals AI-900 Exam Prep",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2004",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals"
+      "course": "SQL 2016 Tables",
+      "school": "Skillsoft",
+      "schoolLogo": "img/college/Skillsoft.jpg",
+      "issueDate": "March 30 - 2024",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "0xfc10cef581b29f8ffb65e2612fb813f8fe911906e35c371d0265ca605bfc3b8e",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/95f0fef8-2c56-482d-89be-2a7c63cde479#gs.fqx9ie"
     },
     {
-      "course": "Microsoft Azure Developer Associate (AZ-204)",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2005",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/professional-certificates/azure-developer-associate"
+      "course": "Data Types & Normalization",
+      "school": "Skillsoft",
+      "schoolLogo": "img/college/Skillsoft.jpg",
+      "issueDate": "march 30 - 2024",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "0x8fcb0cd78ec09827759972c76c778b4e6866a79d88d07edfaf869c2a5395648c",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/e2e8a02f-4e5b-4098-8d6a-60955c4cf6a9#gs.fqxd2c"
     },
     {
-      "course": "Work Smarter with Microsoft Excel",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2006",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/learn/microsoft-excel-work-smarter"
+      "course": "Index Design Guidelines",
+      "school": "Skillsoft",
+      "schoolLogo": "img/college/Skillsoft.jpg",
+      "issueDate": "Marc 30 - 2024",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "0x8fcb0cd78ec09827759972c76c778b4e6866a79d88d07edfaf869c2a5395648c",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/cab9ed05-9d24-4bac-b4f7-cdb76499015a#gs.fqxekw"
+    },
+    {
+      "course": "Event, Incident, and Problem Management",
+      "school": "Skillsoft",
+      "schoolLogo": "img/college/Skillsoft.jpg",
+      "issueDate": "March 30 - 2024",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "0xfc10cef581b29f8ffb65e2612fb813f8fe911906e35c371d0265ca605bfc3b8e",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/9053d91d-5302-4fdc-a02a-626021ecd9be#gs.fqxgqu"
+    },
+    {
+      "course": "Service Desk, IT Asset, Service Configuration, and Change Control Management",
+      "school": "Skillsoft",
+      "schoolLogo": "img/college/Skillsoft.jpg",
+      "issueDate": "March 30 - 2024",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "0xfc10cef581b29f8ffb65e2612fb813f8fe911906e35c371d0265ca605bfc3b8e",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/cfd35836-a486-406c-81eb-8dee7845891c#gs.fqxitm"
+    },
+    {
+      "course": "Release, Service Level, and Availability Management",
+      "school": "Skillsoft",
+      "schoolLogo": "img/college/Skillsoft.jpg",
+      "issueDate": "March 30 - 2024",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "0xfc10cef581b29f8ffb65e2612fb813f8fe911906e35c371d0265ca605bfc3b8e",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/5cdb3d72-4053-4431-a038-c83063e2e4be#gs.fqxkg9"
+    },
+    {
+      "course": "ITIL® 4 Foundation: Key Concepts of Service Management",
+      "school": "Skillsoft",
+      "schoolLogo": "img/college/Skillsoft.jpg",
+      "issueDate": "March 29 - 2024",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "0x9ef0cf7f5fec5cebfa7af7363b0b62c263df883d71ad3681aefdc0524c455721",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/6b01d0d4-181a-4f21-ac87-9de7d6f92919#gs.fqxmad"
+    },
+    {
+      "course": "Key Concepts and the Four Dimensions of Service Management",
+      "school": "Skillsoft",
+      "schoolLogo": "img/college/Skillsoft.jpg",
+      "issueDate": "March 29 - 2024",
+      "expirationDate": "0x9ef0cf7f5fec5cebfa7af7363b0b62c263df883d71ad3681aefdc0524c455721",
+      "credentialCode": "Doesn't Expire",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/8f23c282-6a7b-446e-a707-4520b0003c1a#gs.fqxncw"
+    },
+    {
+      "course": "The Guiding Principles of the Service Value System and Continual Improvement Model",
+      "school": "Skillsoft",
+      "schoolLogo": "img/college/Skillsoft.jpg",
+      "issueDate": "March 29 - 2024",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "0x9ef0cf7f5fec5cebfa7af7363b0b62c263df883d71ad3681aefdc0524c455721",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/95d166b5-bea9-4f6f-b5a8-887abc207f05#gs.fqxow7"
+    },
+    {
+      "course": "The Service Value Chain and General Management Practices",
+      "school": "Skillsoft",
+      "schoolLogo": "img/college/Skillsoft.jpg",
+      "issueDate": "March 29 - 2024",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "0x86a9121084fed9838a0af9ca2f9e84148516cb8fe17db55021ce728f5427d0e9",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/d92c1f9d-05fa-45c7-8e67-b5eb08b6dfce#gs.fqxqjr"
+    },
+    {
+      "course": "ITIL® 4 Foundation: Introduction",
+      "school": "Skillsoft",
+      "schoolLogo": "img/college/Skillsoft.jpg",
+      "issueDate": "February 24 - 2024",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "0x6a913a3ae7753552d850a6de60f03690c4f9aa86057f0b25ef30b3306a470371",
+      "url": "https://skillsoft.digitalbadges.skillsoft.com/f0bc4793-9b24-4e55-ae78-8d11b430dc84"
+    },
+    {
+      "course": "Logical Thinking: Algorithms and Flowcharts",
+      "school": "Platzi",
+      "schoolLogo": "img/college/Platzi.png",
+      "issueDate": "November - 2022",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "d71a1afc-8019-4b05-bb54-a8c1130ac060",
+      "url": "https://platzi.com/p/Tarantula/curso/3221-pensamiento-logico/diploma/detalle/"
+    },
+    {
+      "course": "React 17 with Webpack 5 and Sass",
+      "school": "Platzi",
+      "schoolLogo": "img/college/Platzi.png",
+      "issueDate": "August 2022",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "64e71cbe-2fe6-4714-be73-8fac9ac7b943",
+      "url": "https://platzi.com/p/Tarantula/curso/2484-react-practico/diploma/detalle/"
+    },
+    {
+      "course": "Backend with NestJS",
+      "school": "Platzi",
+      "schoolLogo": "img/college/Platzi.png",
+      "issueDate": "December 2021",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "90e58926-72de-4ed8-92a9-cOff47ed38ad",
+      "url": "https://platzi.com/p/Tarantula/curso/2272-nestjs/diploma/detalle/"
+    },
+    {
+      "course": "Introduction to Backend Development",
+      "school": "Platzi",
+      "schoolLogo": "img/college/Platzi.png",
+      "issueDate": "December 2021",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "d30cfdd-d09c-46a9-d09615009d51",
+      "url": "https://platzi.com/p/Tarantula/curso/2508-backend-introduccion/diploma/detalle/"
+    },
+    {
+      "course": "Basic Algorithms and Logical Thinking Course",
+      "school": "Platzi",
+      "schoolLogo": "img/college/Platzi.png",
+      "issueDate": "December 2021",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "5a872978-6fOa-4eOb-9b16-d68da73fb67c",
+      "url": "https://platzi.com/p/Tarantula/curso/2218-pensamiento-logico-2020/diploma/detalle/"
+    },
+    {
+      "course": "Javascript Basics",
+      "school": "Platzi",
+      "schoolLogo": "img/college/Platzi.png",
+      "issueDate": "September 2020",
+      "expirationDate": "Doens't Expire",
+      "credentialCode": "5f6cf635-2b69-474e-a0ea-289624d0c0fe",
+      "url": ""
+    },
+    {
+      "course": "C# Fundamentals with NET Core 2.1",
+      "school": "Platzi",
+      "schoolLogo": "img/college/Platzi.png",
+      "issueDate": "September 2020",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "d03f7d47-9b86-4971-85a4-5e0596171d2c",
+      "url": "https://platzi.com/p/Tarantula/curso/1375-fundamentos-csharp-2/diploma/detalle/"
+    },
+    {
+      "course": "Frontend Development",
+      "school": "Platzi",
+      "schoolLogo": "img/college/Platzi.png",
+      "issueDate": "July 2020",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "49ce6447-4e82-4177-855b-088db524449f",
+      "url": "https://platzi.com/p/Tarantula/curso/1640-frontend-developer-2019/diploma/detalle/"
+    },
+    {
+      "course": "Introduction to PHP",
+      "school": "Platzi",
+      "schoolLogo": "img/college/Platzi.png",
+      "issueDate": "March 2020",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "f2fca446-a2e3-4d92-ac9b-c1a43912c292",
+      "url": "https://platzi.com/p/Tarantula/curso/1338-introduccion-php-2018/diploma/detalle/"
+    },
+    {
+      "course": "Best Practices and Development Environment on macOS",
+      "school": "Platzi",
+      "schoolLogo": "img/college/Platzi.png",
+      "issueDate": "March 2020",
+      "expirationDate": "Doesn't Expire",
+      "credentialCode": "f13dc768-92ec-48a8-8437-986bdeb364d3",
+      "url": "https://platzi.com/p/Tarantula/curso/1650-prework-2019/diploma/detalle/"
     }
   ],
   "project": [
     {
-      "name": "Visual Studio Code",
-      "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
+      "name": "Hydraxa",
+      "description": "Headless ERP - E-Commerce.",
       "language": "Typescript",
-      "image": "img/project/vscode.png",
-      "stars": "+138k",
-      "forks": "23.8k",
-      "url": "https://github.com/microsoft/vscode"
-    },
-    {
-      "name": "TypeScript",
-      "description": "TypeScript is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript.",
-      "language": "Typescript",
-      "image": "img/project/typescript.png",
-      "stars": "+85.3k",
-      "forks": "11.1k",
-      "url": "https://github.com/microsoft/TypeScript"
+      "image": "img/project/Hydra.png",
+      "stars": "N/A",
+      "forks": "N/A",
+      "url": "https://github.com/QueeNFrisk/Hydraxa"
     }
   ]
 }

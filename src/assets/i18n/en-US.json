@@ -1,6 +1,6 @@
 {
   "resume": "Resume",
-  "information": "Informations",
+  "information": "Information",
   "skills": "Skills",
   "language": "Language",
   "about": "About me",
@@ -10,13 +10,15 @@
   "license": "Licenses and Certificates",
   "project": "Projects",
   "credential": "Credential",
-  "credential_code": "Credential Code",
+  "credential_code": "ID:",
+  "social_networks": "Social Networks",
   "settings": {
     "title": "Settings",
     "theme": "Theme",
-    "dark_mode": "Enable dark mode?",
-    "pt": "Potuguese",
-    "en": "English"
+    "dark_mode": "Dark mode",
+    "es": "Spanish",
+    "en": "English",
+    "pt": "Potuguese"
   },
   "menu": {
     "experience": "Experience",

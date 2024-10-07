@@ -1,0 +1,35 @@
+{
+  "resume": "Currículum",
+  "information": "Información",
+  "skills": "Habilidades",
+  "language": "Idiomas",
+  "about": "Acerca de mi",
+  "experience": "Experiencia",
+  "volunteer": "Volunteer",
+  "education": "Educación",
+  "license": "Licencias y Certificados",
+  "project": "Proyectos",
+  "credential": "Credenciales",
+  "credential_code": "ID:",
+  "social_networks": "Redes Sociales",
+  "settings": {
+    "title": "Configuración",
+    "theme": "Tema",
+    "dark_mode": "Modo Oscuro",
+    "es": "Español",
+    "en": "Inglés",
+    "pt": "Portugués"
+  },
+  "menu": {
+    "experience": "Experiencia",
+    "education": "Educación",
+    "project": "Proyectos"
+  },
+  "paginate": {
+    "count": "Mostrando {first} a {last} de {total} resultados",
+    "previous_page": "Página anterior",
+    "next_page": "Siguiente página",
+    "first_page": "Primer página",
+    "last_page": "Última página"
+  }
+}

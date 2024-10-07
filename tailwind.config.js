@@ -12,7 +12,7 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: colors.amber,
+        primary: colors.fuchsia,
         night: {
           50: '#FFFFFF',
           100: '#b4b2c2',

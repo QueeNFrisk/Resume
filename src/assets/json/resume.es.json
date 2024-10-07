@@ -3,7 +3,7 @@
     "name": "Daniel Garcia",
     "job": "Senior Customer Success Advisor",
     "avatar": "img/profile/me.jpg",
-    "aboutMe": "Meu nome é Daniel Garcia. Sou autodidata em gerenciamento de identidade e acesso, apaixonado por desenvolvimento de software, com forte inclinação para back-end e entusiasta de front-end. Eu me esforço para garantir o acesso à tecnologia e a acessibilidade para os usuários finais, sempre mantendo um foco rigoroso na segurança e na proteção de dados.",
+    "aboutMe": "Mi nombre es Daniel García. Soy un Gestor de Identidades y Accesos autodidacta, apasionado del desarrollo de software, con una fuerte inclinación hacia el back-end y un entusiasta del front-end. Me esfuerzo por garantizar el acceso a la tecnología y la accesibilidad para los usuarios finales, manteniendo siempre un riguroso enfoque en la seguridad y la protección de datos.",
     "socialNetwork": [
       {
         "name": "Linkedin",
@@ -32,18 +32,18 @@
   "information": [
     {
       "icon": "EnvelopeIcon",
-      "name": "Endereço de e-mail",
+      "name": "Correo Electrónico",
       "value": "me@dangarcia.xyz"
     },
     {
       "icon": "CakeIcon",
-      "name": "27 anos de idade",
-      "value": "Agosto de 97'"
+      "name": "27 Años",
+      "value": "Agosto 97'"
     },
     {
       "icon": "ComputerDesktopIcon",
-      "name": "Tipo de trabalho",
-      "value": "Híbrido em tempo integral"
+      "name": "Tipo de trabajo",
+      "value": "Hibrido, Tiempo completo"
     }
   ],
   "skill": [
@@ -56,22 +56,22 @@
   ],
   "language": [
     {
-      "name": "Espanhol",
+      "name": "Español",
       "code": "es-MX",
       "flag": "svg/mexico.svg",
       "level": "Nativo"
     },
     {
-      "name": "Inglês",
+      "name": "Inglés",
       "code": "en-US",
       "flag": "svg/united-states.svg",
-      "level": "Avanço - C2"
+      "level": "Avanzado - C2"
     },
     {
-      "name": "Português",
+      "name": "Portugués",
       "code": "pt-BR",
       "flag": "svg/brazil.svg",
-      "level": "Intermediário - B2"
+      "level": "Intermedio - B2"
     }
   ],
   "experience": [
@@ -80,65 +80,65 @@
       "company": "GlobalLogic",
       "companyLogo": "img/company/GlobalLogic.jpeg",
       "location": "Jalisco, México",
-      "workType": "Híbrido - Tempo integral",
-      "start": "Setembro 2024",
-      "end": "Atualidade",
-      "description": "Como consultor sênior de sucesso do cliente, minha responsabilidade é garantir que os clientes tirem o máximo proveito de nossos produtos, promovendo relacionamentos de longo prazo. Gerencio as principais contas, oriento os clientes durante o processo de integração e otimizo sua experiência com nossas soluções. Desenvolvo estratégias para reter clientes, identifico oportunidades de upselling e colaboro para resolver quaisquer problemas técnicos. Meu foco é sempre a satisfação do cliente, usando minhas habilidades de comunicação e gerenciamento para ajudá-lo a atingir suas metas com sucesso."
+      "workType": "Hibrido - Tiempo completo",
+      "start": "Septiembre 2024",
+      "end": "Actualidad",
+      "description": "Como Senior Customer Success Advisor, mi responsabilidad es garantizar que los clientes saquen el máximo partido de nuestros productos, fomentando relaciones a largo plazo. Gestiono cuentas clave, guío a los clientes a través del proceso de incorporación y optimizo su experiencia con nuestras soluciones. Desarrollo estrategias para retener a los clientes, identifico oportunidades de venta y colaboro para resolver cualquier problema técnico. Me centro siempre en la satisfacción del cliente, utilizando mis habilidades de comunicación y gestión para ayudarle a alcanzar sus objetivos con éxito."
     },
     {
       "job": "Identity and Access Management Engineer - L2",
       "company": "Tata Consultancy Services",
       "companyLogo": "img/company/TataConsultancyServices.jpeg",
       "location": "Jalisco, México",
-      "workType": "Híbrido - Tempo integral",
-      "start": "Junho",
-      "end": "Setembro 2024",
-      "description": "Como engenheiro de IAM, gerencio e mantenho controles de acesso para garantir que os usuários tenham as permissões adequadas para suas funções. Realizo auditorias regularmente para garantir a conformidade com as políticas e normas de segurança. Também desenvolvo e aplico políticas de IAM para proteger os recursos da organização. Além disso, ofereço suporte para a resolução de incidentes relacionados ao acesso e trabalho na automação de processos de IAM para aumentar a eficiência e reduzir o risco de erros."
+      "workType": "Hibrido - Tiempo completo",
+      "start": "Junio",
+      "end": "Septiembre 2024",
+      "description": "Como ingeniero de IAM, gestiono y mantengo los controles de acceso para garantizar que los usuarios tengan los permisos adecuados para sus funciones. Realizo auditorías periódicas para garantizar el cumplimiento de las políticas y normativas de seguridad. También desarrollo y aplico políticas de IAM para salvaguardar los recursos de la organización. Además, proporciono apoyo para resolver incidentes relacionados con el acceso y trabajo en la automatización de los procesos de IAM para mejorar la eficiencia y reducir el riesgo de errores."
     },
     {
       "job": "Cybersecurity - L2",
       "company": "HCLTech",
       "companyLogo": "img/company/HCLTech.jpeg",
       "location": "Jalisco, México",
-      "workType": "Precencial - Tempo integral",
-      "start": "Maio 2023",
-      "end": "Junho 2024",
-      "description": "Em minha função de segurança cibernética, investigo e analiso incidentes de segurança, identificando as causas principais e desenvolvendo soluções para evitar ocorrências futuras. Realizo avaliações de vulnerabilidade para identificar possíveis riscos e implementar proativamente medidas para evitar violações. Aplico e mantenho políticas, procedimentos e controles de segurança para proteger nossa infraestrutura de TI. Também tenho um papel ativo na educação dos funcionários sobre as práticas recomendadas de segurança e a importância de aderir aos protocolos estabelecidos. Além disso, gerencio os controles de acesso e as permissões dos usuários para garantir o acesso seguro aos nossos sistemas."
+      "workType": "Precencial - Tiempo completo",
+      "start": "Mayo 2023",
+      "end": "Junio 2024",
+      "description": "En mi puesto de ciberseguridad, investigo y analizo incidentes de seguridad, identificando las causas y desarrollando soluciones para evitar que se produzcan en el futuro. Llevo a cabo evaluaciones de vulnerabilidad para detectar riesgos potenciales y aplicar medidas proactivas para evitar infracciones. Aplico y mantengo políticas, procedimientos y controles de seguridad para proteger nuestra infraestructura informática. También participo activamente en la formación de los empleados sobre las mejores prácticas de seguridad y la importancia de respetar los protocolos establecidos. Además, gestiono los controles y permisos de acceso de los usuarios para garantizar un acceso seguro a nuestros sistemas."
     },
     {
       "job": "Fullstack Developer",
       "company": "Comercializadora Ideac",
       "companyLogo": "img/company/Ideac.jpeg",
       "location": "Jalisco, México",
-      "workType": "Precencial - Tempo integral",
-      "start": "Julho 2018",
-      "end": "Junho 2022",
-      "description": "Como desenvolvedor FullStack com 4 anos de experiência, sou especializado no desenvolvimento de APIs usando NodeJS com as estruturas ExpressJS e NestJS. Utilizo o ExpressJS por sua simplicidade na criação de rotas e controladores personalizados, e o NestJS por sua estrutura modular, que aumenta a escalabilidade e a capacidade de manutenção. Também automatizo processos financeiros no SAP usando Python, criando scripts personalizados para aumentar a eficiência e reduzir erros em tarefas como reconciliações e geração de relatórios. Além disso, ofereço suporte a sites usando PHP e JavaScript, garantindo uma operação tranquila e implementando novos recursos para aprimorar a experiência do usuário e o desempenho do site."
+      "workType": "Precencial - Tiempo completo",
+      "start": "Julio 2018",
+      "end": "Junio 2022",
+      "description": "Como Desarrollador FullStack con 4 años de experiencia, me especializo en el desarrollo de API usando NodeJS con ambos frameworks ExpressJS y NestJS. Aprovecho ExpressJS por su simplicidad en la creación de rutas y controladores personalizados, y NestJS por su estructura modular, mejorando la escalabilidad y mantenibilidad. También automatizo procesos financieros en SAP usando Python, creando scripts personalizados para mejorar la eficiencia y reducir errores en tareas como conciliaciones y generación de informes. Además, proporciono soporte de sitios web utilizando PHP y JavaScript, asegurando un funcionamiento sin problemas e implementando nuevas características para mejorar la experiencia del usuario y el rendimiento del sitio."
     },
     {
       "job": "Fullstack Developer",
       "company": "HighPro",
       "companyLogo": "img/company/HighPro.jpg",
-      "location": "Jalisco, México",
-      "workType": "Remoto - Meio período",
-      "start": "Fevereiro 2018",
-      "end": "Outubro 2018",
-      "description": "Como desenvolvedor FullStack com 8 meses de experiência, desenvolvi um software interno usando Python e JavaScript (Electron) para gerenciar o inventário e gerar cotações, otimizando o controle de estoque e os processos de orçamento para melhorar a eficiência operacional e a tomada de decisões. Também mantenho sistemas de automação de comércio eletrônico usando PHP e Python, melhorando a eficiência operacional, o gerenciamento de pedidos e a integração de processos para proporcionar uma experiência de usuário mais tranquila e um desempenho otimizado."
+      "location": "Jalisco, Mexico",
+      "workType": "Remoto - Tiempo parcial",
+      "start": "Febrero 2018",
+      "end": "Octubre 2018",
+      "description": "Como desarrollador FullStack con 8 meses de experiencia, he desarrollado software interno utilizando Python y JavaScript (Electron) para gestionar el inventario y generar presupuestos, optimizando el control de existencias y los procesos presupuestarios para mejorar la eficiencia operativa y la toma de decisiones. También mantengo sistemas de automatización de comercio electrónico utilizando PHP y Python, mejorando la eficiencia operativa, la gestión de pedidos y la integración de procesos para ofrecer una experiencia de usuario más fluida y un rendimiento optimizado."
     }
   ],
   "education": [
     {
-      "college": "Universidade Utel",
+      "college": "Universidad Utel",
       "collegeLogo": "img/college/Utel.png",
-      "course": "Engenharia de sistemas de computação",
+      "course": "Licenciatura en ingeniería en sistemas computacionales",
       "start": "2024",
       "end": "2027",
       "url": ""
     },
     {
-      "college": "Universidade de Londres",
+      "college": "Universidad de Londres",
       "collegeLogo": "img/college/London.jpeg",
-      "course": "Mestrado em segurança cibernética",
+      "course": "Maestría en Ciberseguridad",
       "start": "2026",
       "end": "2030",
       "url": ""
@@ -149,8 +149,8 @@
       "course": "Agile Stakeholder Engagement and Team Development",
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
-      "issueDate": "Maio 6 - 2024",
-      "expirationDate": "Não expira",
+      "issueDate": "Mayo 6 - 2024",
+      "expirationDate": "No Expira",
       "credentialCode": "0x4809fdf9ac1b45911e0b45c01dee9c80c10054235e4f1cecc063d0b4dde8d5e0",
       "url": "https://skillsoft.digitalbadges.skillsoft.com/f22f9704-6953-46f9-8d8f-1ae33259020a#gs.fqwg7g"
     },
@@ -158,8 +158,8 @@
       "course": "Agile Project Scheduling and Monitoring",
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
-      "issueDate": "Maio 6 - 2024",
-      "expirationDate": "Não expira",
+      "issueDate": "Mayo 6 - 2024",
+      "expirationDate": "No Expira",
       "credentialCode": "0x4809fdf9ac1b45911e0b45c01dee9c80c10054235e4f1cecc063d0b4dde8d5e0",
       "url": "https://skillsoft.digitalbadges.skillsoft.com/c5b1455a-4dc6-4788-8858-7be88fc1c8b6#gs.fqwxp9"
     },
@@ -168,7 +168,7 @@
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
       "issueDate": "Abril 22 - 2024",
-      "expirationDate": "Não expira",
+      "expirationDate": "No Expira",
       "credentialCode": "0x1c1df4f0e729e27ce01672a977aefa334ae37a6eab8124e14f19475a28733c8e",
       "url": "https://skillsoft.digitalbadges.skillsoft.com/cfa83836-8c4c-4a91-beff-2b5322ed8981#gs.fqx4m8"
     },
@@ -177,7 +177,7 @@
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
       "issueDate": "Abril 8 - 2024",
-      "expirationDate": "Não expira",
+      "expirationDate": "No Expira",
       "credentialCode": "0xe5b71c705d2de8097e4f214949bac3dfbc178872326147012f54384927b1f81d",
       "url": "https://skillsoft.digitalbadges.skillsoft.com/143c6557-cc8e-48d8-9afe-7120bd813be8#gs.fqx6g9"
     },
@@ -185,8 +185,8 @@
       "course": "SQL 2016 Tables",
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
-      "issueDate": "Março 30 - 2024",
-      "expirationDate": "Não expira",
+      "issueDate": "Marzo 30 - 2024",
+      "expirationDate": "No Expira",
       "credentialCode": "0xfc10cef581b29f8ffb65e2612fb813f8fe911906e35c371d0265ca605bfc3b8e",
       "url": "https://skillsoft.digitalbadges.skillsoft.com/95f0fef8-2c56-482d-89be-2a7c63cde479#gs.fqx9ie"
     },
@@ -194,8 +194,8 @@
       "course": "Data Types & Normalization",
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
-      "issueDate": "Março 30 - 2024",
-      "expirationDate": "Não expira",
+      "issueDate": "Marzo 30 - 2024",
+      "expirationDate": "No Expira",
       "credentialCode": "0x8fcb0cd78ec09827759972c76c778b4e6866a79d88d07edfaf869c2a5395648c",
       "url": "https://skillsoft.digitalbadges.skillsoft.com/e2e8a02f-4e5b-4098-8d6a-60955c4cf6a9#gs.fqxd2c"
     },
@@ -203,8 +203,8 @@
       "course": "Index Design Guidelines",
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
-      "issueDate": "Março 30 - 2024",
-      "expirationDate": "Não expira",
+      "issueDate": "Marzo 30 - 2024",
+      "expirationDate": "No Expira",
       "credentialCode": "0x8fcb0cd78ec09827759972c76c778b4e6866a79d88d07edfaf869c2a5395648c",
       "url": "https://skillsoft.digitalbadges.skillsoft.com/cab9ed05-9d24-4bac-b4f7-cdb76499015a#gs.fqxekw"
     },
@@ -212,8 +212,8 @@
       "course": "Event, Incident, and Problem Management",
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
-      "issueDate": "Março 30 - 2024",
-      "expirationDate": "Não expira",
+      "issueDate": "Marzo 30 - 2024",
+      "expirationDate": "No Expira",
       "credentialCode": "0xfc10cef581b29f8ffb65e2612fb813f8fe911906e35c371d0265ca605bfc3b8e",
       "url": "https://skillsoft.digitalbadges.skillsoft.com/9053d91d-5302-4fdc-a02a-626021ecd9be#gs.fqxgqu"
     },
@@ -221,8 +221,8 @@
       "course": "Service Desk, IT Asset, Service Configuration, and Change Control Management",
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
-      "issueDate": "Março 30 - 2024",
-      "expirationDate": "Não expira",
+      "issueDate": "Marzo 30 - 2024",
+      "expirationDate": "No Expira",
       "credentialCode": "0xfc10cef581b29f8ffb65e2612fb813f8fe911906e35c371d0265ca605bfc3b8e",
       "url": "https://skillsoft.digitalbadges.skillsoft.com/cfd35836-a486-406c-81eb-8dee7845891c#gs.fqxitm"
     },
@@ -230,8 +230,8 @@
       "course": "Release, Service Level, and Availability Management",
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
-      "issueDate": "Março 30 - 2024",
-      "expirationDate": "Não expira",
+      "issueDate": "Marzo 30 - 2024",
+      "expirationDate": "No Expira",
       "credentialCode": "0xfc10cef581b29f8ffb65e2612fb813f8fe911906e35c371d0265ca605bfc3b8e",
       "url": "https://skillsoft.digitalbadges.skillsoft.com/5cdb3d72-4053-4431-a038-c83063e2e4be#gs.fqxkg9"
     },
@@ -239,8 +239,8 @@
       "course": "ITIL® 4 Foundation: Key Concepts of Service Management",
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
-      "issueDate": "Março 29 - 2024",
-      "expirationDate": "Não expira",
+      "issueDate": "Marzo 29 - 2024",
+      "expirationDate": "No Expira",
       "credentialCode": "0x9ef0cf7f5fec5cebfa7af7363b0b62c263df883d71ad3681aefdc0524c455721",
       "url": "https://skillsoft.digitalbadges.skillsoft.com/6b01d0d4-181a-4f21-ac87-9de7d6f92919#gs.fqxmad"
     },
@@ -248,17 +248,17 @@
       "course": "Key Concepts and the Four Dimensions of Service Management",
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
-      "issueDate": "Março 29 - 2024",
+      "issueDate": "Marzo 29 - 2024",
       "expirationDate": "0x9ef0cf7f5fec5cebfa7af7363b0b62c263df883d71ad3681aefdc0524c455721",
-      "credentialCode": "Não expira",
+      "credentialCode": "No Expira",
       "url": "https://skillsoft.digitalbadges.skillsoft.com/8f23c282-6a7b-446e-a707-4520b0003c1a#gs.fqxncw"
     },
     {
       "course": "The Guiding Principles of the Service Value System and Continual Improvement Model",
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
-      "issueDate": "Março 29 - 2024",
-      "expirationDate": "Não expira",
+      "issueDate": "Marzo 29 - 2024",
+      "expirationDate": "No Expira",
       "credentialCode": "0x9ef0cf7f5fec5cebfa7af7363b0b62c263df883d71ad3681aefdc0524c455721",
       "url": "https://skillsoft.digitalbadges.skillsoft.com/95d166b5-bea9-4f6f-b5a8-887abc207f05#gs.fqxow7"
     },
@@ -266,8 +266,8 @@
       "course": "The Service Value Chain and General Management Practices",
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
-      "issueDate": "Março 29 - 2024",
-      "expirationDate": "Não expira",
+      "issueDate": "Marzo 29 - 2024",
+      "expirationDate": "No Expira",
       "credentialCode": "0x86a9121084fed9838a0af9ca2f9e84148516cb8fe17db55021ce728f5427d0e9",
       "url": "https://skillsoft.digitalbadges.skillsoft.com/d92c1f9d-05fa-45c7-8e67-b5eb08b6dfce#gs.fqxqjr"
     },
@@ -275,8 +275,8 @@
       "course": "ITIL® 4 Foundation: Introduction",
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
-      "issueDate": "Fevereiro 24 - 2024",
-      "expirationDate": "Não expira",
+      "issueDate": "Febrero 24 - 2024",
+      "expirationDate": "No Expira",
       "credentialCode": "0x6a913a3ae7753552d850a6de60f03690c4f9aa86057f0b25ef30b3306a470371",
       "url": "https://skillsoft.digitalbadges.skillsoft.com/f0bc4793-9b24-4e55-ae78-8d11b430dc84"
     },
@@ -284,8 +284,8 @@
       "course": "Logical Thinking: Algorithms and Flowcharts",
       "school": "Platzi",
       "schoolLogo": "img/college/Platzi.png",
-      "issueDate": "Novembro - 2022",
-      "expirationDate": "Não expira",
+      "issueDate": "Noviembre - 2022",
+      "expirationDate": "No Expira",
       "credentialCode": "d71a1afc-8019-4b05-bb54-a8c1130ac060",
       "url": "https://platzi.com/p/Tarantula/curso/3221-pensamiento-logico/diploma/detalle/"
     },
@@ -294,7 +294,7 @@
       "school": "Platzi",
       "schoolLogo": "img/college/Platzi.png",
       "issueDate": "Agosto 2022",
-      "expirationDate": "Não expira",
+      "expirationDate": "No Expira",
       "credentialCode": "64e71cbe-2fe6-4714-be73-8fac9ac7b943",
       "url": "https://platzi.com/p/Tarantula/curso/2484-react-practico/diploma/detalle/"
     },
@@ -302,8 +302,8 @@
       "course": "Backend with NestJS",
       "school": "Platzi",
       "schoolLogo": "img/college/Platzi.png",
-      "issueDate": "Dezembro 2021",
-      "expirationDate": "Não expira",
+      "issueDate": "Diciembre 2021",
+      "expirationDate": "No Expira",
       "credentialCode": "90e58926-72de-4ed8-92a9-cOff47ed38ad",
       "url": "https://platzi.com/p/Tarantula/curso/2272-nestjs/diploma/detalle/"
     },
@@ -311,8 +311,8 @@
       "course": "Introduction to Backend Development",
       "school": "Platzi",
       "schoolLogo": "img/college/Platzi.png",
-      "issueDate": "Dezembro 2021",
-      "expirationDate": "Não expira",
+      "issueDate": "Diciembre 2021",
+      "expirationDate": "No Expira",
       "credentialCode": "d30cfdd-d09c-46a9-d09615009d51",
       "url": "https://platzi.com/p/Tarantula/curso/2508-backend-introduccion/diploma/detalle/"
     },
@@ -320,8 +320,8 @@
       "course": "Basic Algorithms and Logical Thinking Course",
       "school": "Platzi",
       "schoolLogo": "img/college/Platzi.png",
-      "issueDate": "Dezembro 2021",
-      "expirationDate": "Não expira",
+      "issueDate": "Diciembre 2021",
+      "expirationDate": "No Expira",
       "credentialCode": "5a872978-6fOa-4eOb-9b16-d68da73fb67c",
       "url": "https://platzi.com/p/Tarantula/curso/2218-pensamiento-logico-2020/diploma/detalle/"
     },
@@ -329,8 +329,8 @@
       "course": "Javascript Basics",
       "school": "Platzi",
       "schoolLogo": "img/college/Platzi.png",
-      "issueDate": "Setembro 2020",
-      "expirationDate": "Não expira",
+      "issueDate": "Septiembre 2020",
+      "expirationDate": "Doens't Expire",
       "credentialCode": "5f6cf635-2b69-474e-a0ea-289624d0c0fe",
       "url": ""
     },
@@ -338,8 +338,8 @@
       "course": "C# Fundamentals with NET Core 2.1",
       "school": "Platzi",
       "schoolLogo": "img/college/Platzi.png",
-      "issueDate": "Setembro 2020",
-      "expirationDate": "Não expira",
+      "issueDate": "Septiembre 2020",
+      "expirationDate": "No Expira",
       "credentialCode": "d03f7d47-9b86-4971-85a4-5e0596171d2c",
       "url": "https://platzi.com/p/Tarantula/curso/1375-fundamentos-csharp-2/diploma/detalle/"
     },
@@ -347,8 +347,8 @@
       "course": "Frontend Development",
       "school": "Platzi",
       "schoolLogo": "img/college/Platzi.png",
-      "issueDate": "Julho 2020",
-      "expirationDate": "Não expira",
+      "issueDate": "Julio 2020",
+      "expirationDate": "No Expira",
       "credentialCode": "49ce6447-4e82-4177-855b-088db524449f",
       "url": "https://platzi.com/p/Tarantula/curso/1640-frontend-developer-2019/diploma/detalle/"
     },
@@ -356,8 +356,8 @@
       "course": "Introduction to PHP",
       "school": "Platzi",
       "schoolLogo": "img/college/Platzi.png",
-      "issueDate": "Março 2020",
-      "expirationDate": "Não expira",
+      "issueDate": "Marzo 2020",
+      "expirationDate": "No Expira",
       "credentialCode": "f2fca446-a2e3-4d92-ac9b-c1a43912c292",
       "url": "https://platzi.com/p/Tarantula/curso/1338-introduccion-php-2018/diploma/detalle/"
     },
@@ -365,8 +365,8 @@
       "course": "Best Practices and Development Environment on macOS",
       "school": "Platzi",
       "schoolLogo": "img/college/Platzi.png",
-      "issueDate": "Março 2020",
-      "expirationDate": "Não expira",
+      "issueDate": "Marzo 2020",
+      "expirationDate": "No Expira",
       "credentialCode": "f13dc768-92ec-48a8-8437-986bdeb364d3",
       "url": "https://platzi.com/p/Tarantula/curso/1650-prework-2019/diploma/detalle/"
     }
