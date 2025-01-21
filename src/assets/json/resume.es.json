@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Daniel Garcia",
-    "job": "Senior Customer Success Advisor",
+    "job": "Senior Software Engineer",
     "avatar": "img/profile/me.jpg",
     "aboutMe": "Mi nombre es Daniel García. Soy un Gestor de Identidades y Accesos autodidacta, apasionado del desarrollo de software, con una fuerte inclinación hacia el back-end y un entusiasta del front-end. Me esfuerzo por garantizar el acceso a la tecnología y la accesibilidad para los usuarios finales, manteniendo siempre un riguroso enfoque en la seguridad y la protección de datos.",
     "socialNetwork": [
@@ -76,14 +76,14 @@
   ],
   "experience": [
     {
-      "job": "Senior Customer Success Advisor",
+      "job": "Senior Software Engineer",
       "company": "GlobalLogic",
       "companyLogo": "img/company/GlobalLogic.jpeg",
       "location": "Jalisco, México",
       "workType": "Hibrido - Tiempo completo",
       "start": "Septiembre 2024",
       "end": "Actualidad",
-      "description": "Como Senior Customer Success Advisor, mi responsabilidad es garantizar que los clientes saquen el máximo partido de nuestros productos, fomentando relaciones a largo plazo. Gestiono cuentas clave, guío a los clientes a través del proceso de incorporación y optimizo su experiencia con nuestras soluciones. Desarrollo estrategias para retener a los clientes, identifico oportunidades de venta y colaboro para resolver cualquier problema técnico. Me centro siempre en la satisfacción del cliente, utilizando mis habilidades de comunicación y gestión para ayudarle a alcanzar sus objetivos con éxito."
+      "description": "Como desarrollador de software senior en ciberseguridad, diseño, desarrollo e implemento soluciones tecnológicas seguras para proteger sistemas y datos sensibles, integrando medidas de seguridad en cada etapa del ciclo de desarrollo (SDLC) y automatizando la detección y respuesta a amenazas. Analizo riesgos y patrones de ataque, colaboro con equipos interdisciplinarios, lidero proyectos críticos, capacito a desarrolladores junior y garantizo el cumplimiento de normativas de seguridad como GDPR o ISO 27001. Mi enfoque combina habilidades técnicas avanzadas con estrategias proactivas para anticiparme a posibles ataques y fortalecer la infraestructura tecnológica de la organización"
     },
     {
       "job": "Identity and Access Management Engineer - L2",
