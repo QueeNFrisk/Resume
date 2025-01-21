@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Daniel Garcia",
-    "job": "Senior Customer Success Advisor",
+    "job": "Senior Software Engineer",
     "avatar": "img/profile/me.jpg",
     "aboutMe": "Meu nome é Daniel Garcia. Sou autodidata em gerenciamento de identidade e acesso, apaixonado por desenvolvimento de software, com forte inclinação para back-end e entusiasta de front-end. Eu me esforço para garantir o acesso à tecnologia e a acessibilidade para os usuários finais, sempre mantendo um foco rigoroso na segurança e na proteção de dados.",
     "socialNetwork": [
@@ -83,7 +83,7 @@
       "workType": "Híbrido - Tempo integral",
       "start": "Setembro 2024",
       "end": "Atualidade",
-      "description": "Como consultor sênior de sucesso do cliente, minha responsabilidade é garantir que os clientes tirem o máximo proveito de nossos produtos, promovendo relacionamentos de longo prazo. Gerencio as principais contas, oriento os clientes durante o processo de integração e otimizo sua experiência com nossas soluções. Desenvolvo estratégias para reter clientes, identifico oportunidades de upselling e colaboro para resolver quaisquer problemas técnicos. Meu foco é sempre a satisfação do cliente, usando minhas habilidades de comunicação e gerenciamento para ajudá-lo a atingir suas metas com sucesso."
+      "description": "Como desenvolvedor de software sênior em segurança cibernética, eu projeto, desenvolvo e implemento soluções tecnológicas seguras para proteger sistemas e dados confidenciais, integrando medidas de segurança em todas as etapas do ciclo de desenvolvimento (SDLC) e automatizando a detecção e a resposta a ameaças. Analiso riscos e padrões de ataque, colaboro com equipes multifuncionais, lidero projetos críticos, treino desenvolvedores juniores e garanto a conformidade com normas de segurança, como GDPR ou ISO 27001. Minha abordagem combina habilidades técnicas avançadas com estratégias proativas para antecipar possíveis ataques e fortalecer a infraestrutura tecnológica da organização."
     },
     {
       "job": "Identity and Access Management Engineer - L2",
