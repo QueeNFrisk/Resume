@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Daniel Garcia",
-    "job": "Senior Customer Success Advisor",
+    "job": "Senior Software Engineer",
     "avatar": "img/profile/me.jpg",
     "aboutMe": "My name is Daniel Garcia. I am a selftaught Identity and Access Managemen, passionate about software development, with a strong inclination towards back-end and a front-end enthusiast. I strive to ensure technology access and accessibility for end-users, always maintaining a rigorous focus on security and data protection.",
     "socialNetwork": [
@@ -83,7 +83,7 @@
       "workType": "Hybrid - FullTime",
       "start": "September 2024",
       "end": "Current",
-      "description": "As a Senior Customer Success Advisor, my responsibility is to ensure that customers get the most out of our products, fostering long-term relationships. I manage key accounts, guide customers through the onboarding process, and optimize their experience with our solutions. I develop strategies to retain clients, identify upselling opportunities, and collaborate to resolve any technical issues. My focus is always on customer satisfaction, using my communication and management skills to help them achieve their goals successfully."
+      "description": "As a senior software developer in cybersecurity, I design, develop and implement secure technology solutions to protect sensitive systems and data, integrating security measures at every stage of the development cycle (SDLC) and automating threat detection and response. I analyze risks and attack patterns, collaborate with cross-functional teams, lead critical projects, train junior developers and ensure compliance with security regulations such as GDPR or ISO 27001. My approach combines advanced technical skills with proactive strategies to anticipate potential attacks and strengthen the organization's technology infrastructure."
     },
     {
       "job": "Identity and Access Management Engineer - L2",
