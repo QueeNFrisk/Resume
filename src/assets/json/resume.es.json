@@ -138,6 +138,78 @@
   ],
   "certificate": [
     {
+      "course": "Generative AI Awareness",
+      "school": "National Association of State Boards of Accountancy",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQG7E8goYaWBoA/company-logo_100_100/company-logo_100_100/0/1631306977648?e=1746057600&v=beta&t=WI8HFGCpa3ape2od_xAToeUpQXRvtvyQWYVLGmJPb0M",
+      "issueDate": "Noviembre - 2024",
+      "expirationDate": "No Expira",
+      "credentialCode": "b9a485814d9551dec1b75091194b3cc541a8841edb6b8fb222126384a3d27dab",
+      "url": ""
+    },
+    {
+      "course": "Project Manage Your Life: How to use PM Methodologies to Organize Anything",
+      "school": "Project Management Institute",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFYYvw5asgdjQ/company-logo_100_100/company-logo_100_100/0/1630588508487/project_management_institute_logo?e=1746057600&v=beta&t=l6ilVZRbXgbk8dXmx3Tzta7q7dE2oLxnF1bSqDu_4cE",
+      "issueDate": "Noviembre - 2024",
+      "expirationDate": "No Expira",
+      "credentialCode": "853400bdc10b9e382e2a895207de4a09138ce53754e24966f7f97754628d81af",
+      "url": ""
+    },
+    {
+      "course": "Project: Agile Project Management",
+      "school": "Project Management Institute",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFYYvw5asgdjQ/company-logo_100_100/company-logo_100_100/0/1630588508487/project_management_institute_logo?e=1746057600&v=beta&t=l6ilVZRbXgbk8dXmx3Tzta7q7dE2oLxnF1bSqDu_4cE",
+      "issueDate": "Noviembre - 2024",
+      "expirationDate": "No Expira",
+      "credentialCode": "12843e53d7ecb7bdc63d68283c337913d6062bd0025786bc8c95e9ea25c00f20",
+      "url": ""
+    },
+    {
+      "course": "Comunication Fundations 2018",
+      "school": "National Association of State Boards of Accountancy",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQG7E8goYaWBoA/company-logo_100_100/company-logo_100_100/0/1631306977648?e=1746057600&v=beta&t=WI8HFGCpa3ape2od_xAToeUpQXRvtvyQWYVLGmJPb0M",
+      "issueDate": "Octubre - 2024",
+      "expirationDate": "No Expira",
+      "credentialCode": "ded2f992b0230dc0599d24d5aeb4c8d75db5c49d051dc425ecaf33246a82acd1",
+      "url": ""
+    },
+    {
+      "course": "Critical Thinking for Better Judgment and Decision-Making",
+      "school": "National Association of State Boards of Accountancy",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQG7E8goYaWBoA/company-logo_100_100/company-logo_100_100/0/1631306977648?e=1746057600&v=beta&t=WI8HFGCpa3ape2od_xAToeUpQXRvtvyQWYVLGmJPb0M",
+      "issueDate": "Octubre - 2024",
+      "expirationDate": "No Expira",
+      "credentialCode": "f559f5bd13134bf83c4b5615af039ea8af826f9bb7728cf324f19674cec4a299",
+      "url": ""
+    },
+    {
+      "course": "De-Escalating Conversations For Customer Service",
+      "school": "National Association of State Boards of Accountancy",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQG7E8goYaWBoA/company-logo_100_100/company-logo_100_100/0/1631306977648?e=1746057600&v=beta&t=WI8HFGCpa3ape2od_xAToeUpQXRvtvyQWYVLGmJPb0M",
+      "issueDate": "Octubre - 2024",
+      "expirationDate": "No Expira",
+      "credentialCode": "75d5f32199be2d9ca04b0f7e79b8bdc33ac426b90efb7484c32e3cd66ed211d3",
+      "url": ""
+    },
+    {
+      "course": "Developing Your Emotional Intelligence",
+      "school": "Project Management Institute",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFYYvw5asgdjQ/company-logo_100_100/company-logo_100_100/0/1630588508487/project_management_institute_logo?e=1746057600&v=beta&t=l6ilVZRbXgbk8dXmx3Tzta7q7dE2oLxnF1bSqDu_4cE",
+      "issueDate": "Octubre - 2024",
+      "expirationDate": "No Expira",
+      "credentialCode": "a1fd438b95f0c15b76784ca5cc72f61c45c684ab2dcf1b3914ef0d49393f79eb",
+      "url": ""
+    },
+    {
+      "course": "Effective Listening",
+      "school": "National Association of State Boards of Accountancy",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQG7E8goYaWBoA/company-logo_100_100/company-logo_100_100/0/1631306977648?e=1746057600&v=beta&t=WI8HFGCpa3ape2od_xAToeUpQXRvtvyQWYVLGmJPb0M",
+      "issueDate": "Octubre - 2024",
+      "expirationDate": "No Expira",
+      "credentialCode": "d68ca7c54775739548316af915c707c93d582994b01550794f40aacee1d93a86",
+      "url": ""
+    },
+    {
       "course": "Agile Stakeholder Engagement and Team Development",
       "school": "Skillsoft",
       "schoolLogo": "img/college/Skillsoft.jpg",
@@ -322,7 +394,7 @@
       "school": "Platzi",
       "schoolLogo": "img/college/Platzi.png",
       "issueDate": "Septiembre 2020",
-      "expirationDate": "Doens't Expire",
+      "expirationDate": "No Expira",
       "credentialCode": "5f6cf635-2b69-474e-a0ea-289624d0c0fe",
       "url": ""
     },
