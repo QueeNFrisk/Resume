@@ -16,7 +16,7 @@ defineProps<{ item: Certificate; separator: boolean }>();
       <div class="items-start justify-between sm:flex">
         <div class="mb-2 space-y-1.5 text-gray-400 dark:text-night-400">
           <div class="font-medium text-gray-900 dark:text-night-50">{{ item.course }}</div>
-          <span class="text-sm font-medium">{{ item.course }}</span>
+          <span class="text-sm font-medium">{{ item.school }}</span>
           <div class="text-xs">{{ item.issueDate }} · {{ item.expirationDate }}</div>
           <div v-if="item.credentialCode" class="text-xs">
             <!--{{ $t('credential_code') }}-->ID:
